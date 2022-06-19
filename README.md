@@ -1,7 +1,10 @@
-# Smart-Calculator
+# Smart Calculator
 This is a smart calculator that has a lot of advanced functions than a standard scientific calculator.
 
-# Smart Calculator has different functions and they are the following:
+# Description
+This program is a smart calculator that has 50 functions in total
+
+# Features
 * Basic Commands and Functions
 * Different Types of Equations and Polynomials
 * Graphing 2D Plots
